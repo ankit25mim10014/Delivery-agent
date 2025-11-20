@@ -1,5 +1,5 @@
 """
-CSA2001 - Fundamentals of AI & ML
+CSA1021 Intoduction to Problem solving and programming
 
 Features:
 - Generates 3 maps (small, medium, large) with obstacles (guaranteed solvable)
@@ -173,4 +173,5 @@ def main():
         run_planner(args.map, args.planner)
 
 if __name__ == "__main__":
+
     main()
